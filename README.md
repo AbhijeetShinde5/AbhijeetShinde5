@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Core JAVA , SQL, Angular JS,TypeScript ,Spring Boot , Hibernet*
 
-- 📫 How to reach me *mangeshdalvi159915@gmail.com*
+- 📫 How to reach me *abhijeetshinde648@gmail.com*
 
 - 📄 Know about my experiences (usp=share_link]https://drive.google.com/file/d/1dVey1WuMrrWHdHTEcuGePSoni0WusZEq/view?usp=share_link)
 - ⚡ Fun Fact *Working on myself*
